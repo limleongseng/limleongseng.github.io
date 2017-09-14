@@ -1,5 +1,5 @@
 # Site settings
-title: Lim Leong Seng 林龙成
+title: Lim Leong Seng 林龍成
 description: 'Contact: 9738 2792'
 url: ''
 baseurl: ''
@@ -9,10 +9,6 @@ baseurl: ''
 author:
   name: 'Lim Leong Seng'
   email: limleongsengsingapore@gmail.com
-#  twitter_username: joshgerdes
-#  facebook_username: joshgerdes
-#  github_username:  joshgerdes
-#  linkedin_username:  joshgerdes
 
 defaults:
   -
